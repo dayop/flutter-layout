@@ -1,16 +1,13 @@
-# uiux
 
-A new Flutter project.
+# Flutter UI UX (Tugas 2)
 
-## Getting Started
+# Tentang Project
+Project bertemakan Hari Kemerdekaan Republik Indonesia. Untuk membakar semangat kemerdekaan, Kita bangkitkan kembali Slogan "Saya Indonesia, Saya Pancasila".
 
-This project is a starting point for a Flutter application.
+# Screenshoot Project
+![ss](https://user-images.githubusercontent.com/47374911/64258968-5dd4b600-cf52-11e9-92aa-4615feb2d991.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+# Teknologi Yang Digunakan
+Dart, Flutter, VSCode, Device Emulator
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Created By : Yopie Hidayat
